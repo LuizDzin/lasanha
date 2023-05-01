@@ -1,0 +1,65 @@
+#titulo {
+    text-align: center;
+color: brown;
+font-size: 80px;
+font-family: Algerian;
+background: linear-gradient(Yellow 0%,  #b3274e 100%);
+padding: 50px;
+position: fixed;
+top: 0;
+width: 100%;
+margin: auto;
+z-index: 4;
+}
+body {
+    background: linear-gradient(Crimson 0%, LightSalmon 100%);
+}
+.subtitulo {
+    padding-left: 30px;
+    font-size: 50px;
+    color:brown;
+    text-align: center;
+}
+.item {
+    float: left;
+    padding-left:10px;
+    padding-right: auto;
+    }
+    #menu {
+        list-style: none;
+        position: fixed;
+        background-color: rgba(255, 255, 0, 0.479);
+        top: 30px;
+        right: 30px;
+      z-index: 100;
+      font-size: 20px;
+}
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+}
+#intro {
+    margin-top: 400px;
+}
+.item a {
+    color: royalblue;
+    text-decoration: none;
+}
+img {
+    height:570px;
+    cursor: pointer;
+
+}
+#comida {
+    text-align: center;
+    font-size: 30px;
+    color: 	SteelBlue;
+}
+#food {
+height: 300px;
+}
+.contato {
+    text-decoration: none;
+    color: blueviolet;
+}
